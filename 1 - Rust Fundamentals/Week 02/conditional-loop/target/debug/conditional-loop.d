@@ -1,0 +1,1 @@
+/home/aswanijehangeer/Shiny\ Developer/Rust\ Programming\ Specialization/1\ -\ Rust\ Fundamentals/Week\ 02/conditional-loop/target/debug/conditional-loop: /home/aswanijehangeer/Shiny\ Developer/Rust\ Programming\ Specialization/1\ -\ Rust\ Fundamentals/Week\ 02/conditional-loop/src/main.rs

@@ -1,0 +1,3 @@
+{
+  "rust-analyzer.linkedProjects": ["./control-flow-loop/Cargo.toml"]
+}
