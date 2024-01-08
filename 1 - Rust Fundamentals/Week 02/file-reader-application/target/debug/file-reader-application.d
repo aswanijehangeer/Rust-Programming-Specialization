@@ -1,0 +1,1 @@
+/home/aswanijehangeer/Rust\ Programming\ Specialization/1\ -\ Rust\ Fundamentals/Week\ 02/file-reader-application/target/debug/file-reader-application: /home/aswanijehangeer/Rust\ Programming\ Specialization/1\ -\ Rust\ Fundamentals/Week\ 02/file-reader-application/src/main.rs
