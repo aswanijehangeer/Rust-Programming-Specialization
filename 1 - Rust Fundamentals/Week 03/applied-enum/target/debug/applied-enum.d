@@ -1,0 +1,1 @@
+/home/aswanijehangeer/Rust\ Programming\ Specialization/1\ -\ Rust\ Fundamentals/Week\ 03/applied-enum/target/debug/applied-enum: /home/aswanijehangeer/Rust\ Programming\ Specialization/1\ -\ Rust\ Fundamentals/Week\ 03/applied-enum/src/main.rs
