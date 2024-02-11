@@ -8,13 +8,9 @@ Instructors: [Alfredo Deza](https://www.coursera.org/instructor/~81359500) and [
 
 A repository dedicated to coursework, projects, and exercises completed during the Rust programming specialization from Duke University on Coursera.
 
-## Milestone
-
-I Have to complete this specialization till March 5, 2024.
-
 ## Courses
 
-There are total five courses in this Specialization.
+There are a total of five courses in this Specialization.
 
 ## Course 1: Rust Fundamentals
 
